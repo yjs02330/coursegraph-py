@@ -26,7 +26,7 @@ def main():
         output_file = args.output
         output_format = args.format
         show_mode = False
-        # Perform actions based on options
+        # Perform actions based on options!
 
         if output_file:
             print(f"The output image file path has been specified: {output_file}")
